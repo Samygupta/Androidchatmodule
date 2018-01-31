@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531552642162",
+    "firebase_url": "https://chat-module-27050.firebaseio.com",
+    "project_id": "chat-module-27050",
+    "storage_bucket": "chat-module-27050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531552642162:android:5978ef10eef66cc3",
+        "android_client_info": {
+          "package_name": "com.chatmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531552642162-74hundg8bq7830o19icvkc0hpsvsfjma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWoDQiMolULSq7QoOgvyLOHXrsRDB6P60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
